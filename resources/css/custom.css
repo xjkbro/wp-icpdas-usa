@@ -35,3 +35,13 @@
         }
     }
 }
+
+/* Navigation */
+
+.menu-item-has-children > .sub-menu{
+    display:none;
+}
+.menu-item-has-children:hover > .sub-menu {
+    display:block;
+}
+

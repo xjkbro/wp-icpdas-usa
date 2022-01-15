@@ -19,12 +19,12 @@
         {
           "name": "Dark",
           "slug": "dark",
-          "color": "#1F2937"
+          "color": "#005980"
         },
         {
           "name": "Light",
           "slug": "light",
-          "color": "#f35b0d"
+          "color": "#eff1f2"
         }
       ]
     },
