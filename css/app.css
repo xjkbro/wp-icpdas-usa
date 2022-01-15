@@ -624,7 +624,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .border-primary {
   --tw-border-opacity: 1;
-  border-color: rgb(14 165 233 / var(--tw-border-opacity));
+  border-color: rgb(0 142 204 / var(--tw-border-opacity));
 }
 
 .border-transparent {
@@ -633,7 +633,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .bg-primary {
   --tw-bg-opacity: 1;
-  background-color: rgb(14 165 233 / var(--tw-bg-opacity));
+  background-color: rgb(0 142 204 / var(--tw-bg-opacity));
 }
 
 .bg-gray-200 {
@@ -796,12 +796,12 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .text-secondary {
   --tw-text-opacity: 1;
-  color: rgb(20 184 166 / var(--tw-text-opacity));
+  color: rgb(0 89 128 / var(--tw-text-opacity));
 }
 
 .text-primary {
   --tw-text-opacity: 1;
-  color: rgb(14 165 233 / var(--tw-text-opacity));
+  color: rgb(0 142 204 / var(--tw-text-opacity));
 }
 
 .text-gray-700 {
