@@ -623,8 +623,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 4rem;
 }
 
-.w-36 {
-  width: 9rem;
+.w-40 {
+  width: 10rem;
 }
 
 .w-60 {
@@ -786,6 +786,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .p-2 {
   padding: 0.5rem;
+}
+
+.p-4 {
+  padding: 1rem;
 }
 
 .px-4 {
@@ -2577,7 +2581,8 @@ div.ctct-form-embed form.ctct-form-custom .ctct-form-required:after {
 ******************************************/
 
 .banner {
-  background: #008ecc url('../img/icp-das-usa-banner-480w.jpg') no-repeat right center;
+  background: #008ecc url("../img/icp-das-usa-banner-480w.jpg") no-repeat
+        right center;
   background-size: cover;
 }
 
@@ -2671,7 +2676,7 @@ div.ctct-form-embed form.ctct-form-custom .ctct-form-required:after {
 	******************************************/
 
   .banner h1,
-	.banner .ic-p {
+    .banner .ic-p {
     color: #005980;
   }
 
@@ -2691,7 +2696,12 @@ div.ctct-form-embed form.ctct-form-custom .ctct-form-required:after {
 	******************************************/
 
   .banner {
-    background-image: linear-gradient(to right, rgba(0, 142, 204, 0.72), rgba(252, 112, 25, 0.12)), url('../img/icp-das-usa-banner-480w.jpg');
+    background-image: linear-gradient(
+                to right,
+                rgba(0, 142, 204, 0.72),
+                rgba(252, 112, 25, 0.12)
+            ),
+            url("../img/icp-das-usa-banner-480w.jpg");
   }
 
   .banner-inner {
@@ -2716,7 +2726,7 @@ div.ctct-form-embed form.ctct-form-custom .ctct-form-required:after {
 	******************************************/
 
   .trio p,
-	.trio-content {
+    .trio-content {
     padding-left: 1rem;
     padding-right: 1rem;
   }
@@ -2758,7 +2768,12 @@ div.ctct-form-embed form.ctct-form-custom .ctct-form-required:after {
 	******************************************/
 
   .banner {
-    background-image: linear-gradient(to right, rgba(0, 142, 204, 0.72), rgba(252, 112, 25, 0.05)), url('../img/icp-das-usa-banner-768w.jpg');
+    background-image: linear-gradient(
+                to right,
+                rgba(0, 142, 204, 0.72),
+                rgba(252, 112, 25, 0.05)
+            ),
+            url("../img/icp-das-usa-banner-768w.jpg");
   }
 }
 
@@ -2888,7 +2903,12 @@ div.ctct-form-embed form.ctct-form-custom .ctct-form-required:after {
 	******************************************/
 
   .banner {
-    background-image:  linear-gradient(to right, rgba(0, 142, 204, 0.72), rgba(252, 112, 25, 0.05)), url('../img/icp-das-usa-banner-full.jpg');
+    background-image: linear-gradient(
+                to right,
+                rgba(0, 142, 204, 0.72),
+                rgba(252, 112, 25, 0.05)
+            ),
+            url("../img/icp-das-usa-banner-full.jpg");
   }
 
   /******************************************
@@ -2927,7 +2947,7 @@ div.ctct-form-embed form.ctct-form-custom .ctct-form-required:after {
   }
 
   .solutions .rollover-overlay {
-    background-color: rgba(252,112,25,0.6);
+    background-color: rgba(252, 112, 25, 0.6);
     opacity: 1;
   }
 
@@ -3087,7 +3107,7 @@ div.ctct-form-embed form.ctct-form-custom .ctct-form-required:after {
   }
 
   .popular-content,
-	.popular-image {
+    .popular-image {
     min-height: 286px;
     height: 100%;
   }
@@ -3152,11 +3172,7 @@ div.ctct-form-embed form.ctct-form-custom .ctct-form-required:after {
 # IPAD PRO PORTRAIT
 ******************************************/
 
-@media only screen
-  and (min-width: 1024px) 
-  and (max-width: 1024px) 
-  and (orientation: portrait) 
-  and (-webkit-min-device-pixel-ratio: 2) {
+@media only screen and (min-width: 1024px) and (max-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
   .banner {
     height: 400px;
   }
@@ -3203,7 +3219,7 @@ div.ctct-form-embed form.ctct-form-custom .ctct-form-required:after {
   }
 
   .banner-header,
-	.banner-list {
+    .banner-list {
     margin-bottom: 2rem;
   }
 
@@ -3212,7 +3228,7 @@ div.ctct-form-embed form.ctct-form-custom .ctct-form-required:after {
 	******************************************/
 
   .category .rollover-overlay {
-    background-color: rgba(252,112,25,0.9);
+    background-color: rgba(252, 112, 25, 0.9);
     z-index: 2;
     display: block;
     padding-left: 0.5rem;
@@ -3264,7 +3280,12 @@ div.ctct-form-embed form.ctct-form-custom .ctct-form-required:after {
 	******************************************/
 
   .banner {
-    background-image:  linear-gradient(to right, rgba(0, 142, 204, 0.72), rgba(252, 112, 25, 0.05)), url('../img/icp-das-usa-banner-full.jpg');
+    background-image: linear-gradient(
+                to right,
+                rgba(0, 142, 204, 0.72),
+                rgba(252, 112, 25, 0.05)
+            ),
+            url("../img/icp-das-usa-banner-full.jpg");
   }
 
   /******************************************
