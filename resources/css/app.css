@@ -6,7 +6,8 @@
 
 @import "classic-css/main.css";
 @import "classic-css/index.css";
-/* @import "classic-css/styles.css"; */
+@import "classic-css/styles.css";
+@import "classic-css/category.css";
 /* @import "classic-css/banners.css"; */
 @import "classic-css/header.css";
 /* @import "classic-css/redesign-styles.css"; */

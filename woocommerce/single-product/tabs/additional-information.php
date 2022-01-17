@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Additional Information tab
  *
@@ -16,25 +15,17 @@
  * @version 3.0.0
  */
 
-defined('ABSPATH') || exit;
+defined( 'ABSPATH' ) || exit;
 
 global $product;
 
-$heading = apply_filters('woocommerce_product_additional_information_heading', __('Additional information', 'woocommerce'));
+$heading = apply_filters( 'woocommerce_product_additional_information_heading', __( 'Additional information', 'woocommerce' ) );
 
 ?>
 
 <?php if ($heading) : ?>
     <h2><?php echo esc_html($heading); ?></h2>
-    <?php the_field('specifications_table_editor'); ?>
-    <!-- <?php $user_manual = get_field('user_manual'); ?>
-    <?php if ($user_manual) : ?>
-        <a href="<?php echo esc_url($user_manual['url']); ?>"><?php echo esc_html($user_manual['filename']); ?></a>
-    <?php endif; ?>
-    <?php $feature_image = get_field('feature_image'); ?>
-    <?php if ($feature_image) : ?>
-        <img src="<?php echo esc_url($feature_image['url']); ?>" alt="<?php echo esc_attr($feature_image['alt']); ?>" />
-    <?php endif; ?> -->
+    <?php the_field('specification_table'); ?>
 <?php endif; ?>
 
-<?php do_action('woocommerce_product_additional_information', $product); ?>
+<?php do_action( 'woocommerce_product_additional_information', $product ); ?>

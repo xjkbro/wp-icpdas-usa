@@ -34,9 +34,7 @@ global $product;
 	<?php echo wc_get_product_category_list( $product->get_id(), ', ', '<span class="posted_in">' . _n( 'Category:', 'Categories:', count( $product->get_category_ids() ), 'woocommerce' ) . ' ', '</span>' ); ?>
 
 	<?php echo wc_get_product_tag_list( $product->get_id(), ', ', '<span class="tagged_as">' . _n( 'Tag:', 'Tags:', count( $product->get_tag_ids() ), 'woocommerce' ) . ' ', '</span>' ); ?>
-
-        <?php $additionalReferences = array('user_manual','data_sheet','driver_a','driver_b','driver_c', 'additional_items_a', 'additional_items_b', 'additional_items_c')
-    ?>
+    <?php $additionalReferences = array('user_manual','data_sheet','driver_a','driver_b','driver_c', 'additional_items_a', 'additional_items_b', 'additional_items_c'); ?>
 
     <style>
         .single_product_references {
@@ -56,6 +54,7 @@ global $product;
         <?php } ?>
         
     </div>
+
 
 	<?php do_action( 'woocommerce_product_meta_end' ); ?>
 

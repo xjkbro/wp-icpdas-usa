@@ -20,8 +20,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 global $product;
-$testprod = wc_get_product( 99 );
+
 ?>
 <p class="<?php echo esc_attr( apply_filters( 'woocommerce_product_price_class', 'price' ) ); ?>"><?php echo $product->get_price_html(); ?></p>
-
-<!-- <p class="<?php echo esc_attr( apply_filters( 'woocommerce_product_price_class', 'price' ) ); ?>"><?php echo $testprod->get_price_html(); ?></p> -->

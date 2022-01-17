@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Description tab
  *
@@ -16,17 +15,19 @@
  * @version 2.0.0
  */
 
-defined('ABSPATH') || exit;
+defined( 'ABSPATH' ) || exit;
 
 global $post;
 
-$heading = apply_filters('woocommerce_product_description_heading', __('Description', 'woocommerce'));
+$heading = apply_filters( 'woocommerce_product_description_heading', __( 'Description', 'woocommerce' ) );
 
 ?>
 
-<?php if ($heading) : ?>
-    <h2><?php echo esc_html($heading); ?></h2>
-<?php endif; ?>
+<!-- <?php if ( $heading ) : ?>
+	<h2><?php echo esc_html( $heading ); ?></h2>
+<?php endif; ?> -->
+
+<!-- <?php the_content(); ?> -->
 <div class="flex">
     <div class="w-2/3"><?php the_content(); ?></div>
     <div class="w-1/3">
@@ -44,11 +45,3 @@ $heading = apply_filters('woocommerce_product_description_heading', __('Descript
         <?php endif; ?>
     </div>
 </div>
-
-
-<!-- <?php var_dump(get_field('user_manual')); ?>
-<?php $file = get_field('user_manual');
-if ($file) : ?>
-    <a href="<?php echo $file['url']; ?>"><?php echo $file['filename']; ?></a>
-<?php endif; ?>
-<?php the_content(); ?> -->

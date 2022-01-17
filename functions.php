@@ -49,6 +49,7 @@ function tailpress_enqueue_scripts()
 
     wp_enqueue_script('main-style', get_template_directory_uri() . "/resources/js/main.js", array('jquery'), $theme->get('Version'), true);
     wp_enqueue_script('product-page-style', get_template_directory_uri() . "/resources/js/product-page.js", array('jquery'), $theme->get('Version'), true);
+    wp_enqueue_script('collapsible', get_template_directory_uri() . "/resources/js/collapsible.js", array('jquery'), $theme->get('Version'), true);
 
     // ===============================
     // Thirdparty css and script files
