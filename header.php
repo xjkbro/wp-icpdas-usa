@@ -28,12 +28,12 @@
 						<div class="flex">
 							<div class="p-2"><a href="#"><i class="fa fa-comments" aria-hidden="true"></i> Click to Chat</a></div>
 							<div class="p-2"><a href="#"><i class="fa fa-phone" aria-hidden="true"></i> 888-971-9888</a></div>
-							<div class="p-2"><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i> Contact Us</a></div>
+							<div class="p-2"><a href="<?php echo get_bloginfo('url'); ?>/contact"><i class="fa fa-envelope" aria-hidden="true"></i> Contact Us</a></div>
 							<div class="p-2">Cage/NCage Code: 3FNF0</div>
 						</div>
 						<div class="flex">
-							<div class="p-2"><a href="/quotation-center">Request A Quote</a></div>
-							<div class="p-2"><a href="/my-account">My Account</a></div>
+							<div class="p-2"><a href="<?php echo get_bloginfo('url'); ?>/quotation-center">Request A Quote</a></div>
+							<div class="p-2"><a href="<?php echo get_bloginfo('url'); ?>/account">My Account</a></div>
 						</div>
 					</div>
 				</div>
@@ -81,8 +81,8 @@
 					</div>
 					<!-- Button Container -->
 					<div class="flex gap-6">
-						<button class="font-semibold text-darkpy-4 px-6 outline outline-2 outline-dark hover:bg-dark hover:text-white"><a href="/cart">Cart</a></button>
-						<button class="font-semibold bg-secondary py-4 px-6 outline outline-2 outline-secondary hover:outline hover:outline-2 hover:outline-secondary hover:bg-white text-white hover:text-secondary"><a href="/shop">Shop</a></button>
+						<a href="<?php echo get_bloginfo('url'); ?>/cart" class="font-semibold text-dark py-4 px-6 outline outline-2 outline-dark hover:bg-dark hover:text-white">Cart</a>
+						<a href="<?php echo get_bloginfo('url'); ?>/shop" class="font-semibold bg-secondary py-4 px-6 outline outline-2 outline-secondary hover:outline hover:outline-2 hover:outline-secondary hover:bg-white text-white hover:text-secondary">Shop</a>
 					</div>
 				</div>
 
