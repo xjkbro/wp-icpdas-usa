@@ -28,7 +28,7 @@
             <div class="rollover-image">
                 <a class="fc-wh td-no" href="/data_acquisition_systems.html">
                     <div class="click-image ai-c bg-wh ds-fl jc-c pd-1">
-                        <img width="100%" height="100%" src="/wp-content/themes/tailpress/img/icp-das-usa-data-acquisition.jpg" loading="lazy" alt="A product image of a data acquisition module.">
+                        <img width="100%" height="100%" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-data-acquisition.jpg" loading="lazy" alt="A product image of a data acquisition module.">
                     </div>
                     <h3 class="click-header ai-c bg-1 ds-fl fc-wh fs-xs fw-4 jc-c pd-1 ps-re ta-c">Remote Data Acquisition</h3>
                     <div class="click-icon ds-fl jc-c ps-re">
@@ -55,7 +55,7 @@
             <div class="rollover-image">
                 <a class="fc-wh td-no" href="/embedded_controllers_plc_controllers.html">
                     <div class="click-image ai-c bg-wh ds-fl jc-c pd-1">
-                        <img width="100%" height="100%" src="/wp-content/themes/tailpress/img/icp-das-usa-controller.jpg" loading="lazy" alt="A product image of a data acquisition controller.">
+                        <img width="100%" height="100%" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-controller.jpg" loading="lazy" alt="A product image of a data acquisition controller.">
                     </div>
                     <h3 class="click-header ai-c bg-1 ds-fl fc-wh fs-xs fw-4 jc-c pd-1 ps-re ta-c">Embedded &amp; Programmable Controllers</h3>
                     <div class="click-icon ds-fl jc-c ps-re">
@@ -83,7 +83,7 @@
             <div class="rollover-image">
                 <a class="fc-wh td-no" href="/industrial_data_communications.html">
                     <div class="click-image ai-c bg-wh ds-fl jc-c pd-1">
-                        <img width="100%" height="100%" src="/wp-content/themes/tailpress/img/icp-das-usa-data-communication.jpg" loading="lazy" alt="A product image of a data acquisition gateway.">
+                        <img width="100%" height="100%" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-data-communication.jpg" loading="lazy" alt="A product image of a data acquisition gateway.">
                     </div>
                     <h3 class="click-header ai-c bg-1 ds-fl fc-wh fs-xs fw-4 jc-c pd-1 ps-re ta-c">Data Communication</h3>
                     <div class="click-icon ds-fl jc-c ps-re">
@@ -107,7 +107,7 @@
             <div class="rollover-image">
                 <a class="fc-wh td-no" href="/software.php">
                     <div class="click-image ai-c bg-wh ds-fl jc-c pd-1">
-                        <img width="100%" height="100%" src="/wp-content/themes/tailpress/img/icp-das-usa-software.jpg" loading="lazy" alt="A product image of data acquisition software.">
+                        <img width="100%" height="100%" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-software.jpg" loading="lazy" alt="A product image of data acquisition software.">
                     </div>
                     <h3 class="click-header ai-c bg-1 ds-fl fc-wh fs-xs fw-4 jc-c pd-1 ps-re ta-c">DAQ Software</h3>
                     <div class="click-icon ds-fl jc-c ps-re">
@@ -132,7 +132,7 @@
             <div class="rollover-image">
                 <a class="fc-wh td-no" href="/ethernet_switches.html">
                     <div class="click-image ai-c bg-wh ds-fl jc-c pd-1">
-                        <img width="100%" height="100%" src="/wp-content/themes/tailpress/img/icp-das-usa-ethernet.jpg" loading="lazy" alt="A product image of an ethernet switch.">
+                        <img width="100%" height="100%" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-ethernet.jpg" loading="lazy" alt="A product image of an ethernet switch.">
                     </div>
                     <h3 class="click-header ai-c bg-1 ds-fl fc-wh fs-xs fw-4 jc-c pd-1 ps-re ta-c">Ethernet Switches</h3>
                     <div class="click-icon ds-fl jc-c ps-re">
@@ -159,13 +159,13 @@
     <div class="about-inner ai-c mg-at wc">
         <div class="side-gallery h-100 jc-sb">
             <div class="side-image ds-bl mg-b15 w-100">
-                <img width="100%" height="100%" src="/wp-content/themes/tailpress/img/icp-das-usa-about-1.jpg" loading="lazy" alt="A young man in workwear and a helmet chooses setups on a control panel in a factory shop.">
+                <img width="100%" height="100%" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-about-1.jpg" loading="lazy" alt="A young man in workwear and a helmet chooses setups on a control panel in a factory shop.">
             </div>
             <div class="side-image ds-fl w-100">
-                <img width="100%" height="100%" class="ds-no" src="/wp-content/themes/tailpress/img/icp-das-usa-about-2.jpg" loading="lazy" alt="An industrial engineer uses a control panel to program a machine.">
+                <img width="100%" height="100%" class="ds-no" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-about-2.jpg" loading="lazy" alt="An industrial engineer uses a control panel to program a machine.">
             </div>
             <div class="side-image ds-fl w-100">
-                <img width="100%" height="100%" class="ds-no" src="/wp-content/themes/tailpress/img/icp-das-usa-about-3.jpg" loading="lazy" alt="An industrial mechanical engineer and a factory worker look at a laptop at a metal lathe industrial manufacturing factory.">
+                <img width="100%" height="100%" class="ds-no" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-about-3.jpg" loading="lazy" alt="An industrial mechanical engineer and a factory worker look at a laptop at a metal lathe industrial manufacturing factory.">
             </div>
         </div>
         <article>
@@ -188,7 +188,7 @@
             </div>
             <div id="popular0" class="tabcontent popular-item bg-1 ai-c pd-1 w-100">
                 <div class="popular-image ai-c bg-wh ds-fl jc-c mg-b15 pd-1">
-                    <img width="200px" height="100%" src="/wp-content/themes/tailpress/img/icp-das-usa-indusoft.jpg" loading="lazy" alt="A product image of Indusoft logo.">
+                    <img width="200px" height="100%" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-indusoft.jpg" loading="lazy" alt="A product image of Indusoft logo.">
                 </div>
                 <div class="popular-content fd-col jc-c">
                     <h3 class="fc-wh fs-md mg-b1">InduSoft SCADA</h3>
@@ -198,7 +198,7 @@
             </div>
             <div id="popular1" class="tabcontent popular-item bg-1 ai-c pd-1 w-100">
                 <div class="popular-image ai-c bg-wh ds-fl jc-c mg-b15 pd-1">
-                    <img width="200px" height="100%" src="/wp-content/themes/tailpress/img/icp-das-usa-tpd-280.jpg" loading="lazy" alt="A product image of a touchpad controller.">
+                    <img width="200px" height="100%" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-tpd-280.jpg" loading="lazy" alt="A product image of a touchpad controller.">
                 </div>
                 <div class="popular-content fd-col jc-c">
                     <h3 class="fc-wh fs-md mg-b1">The TPD-280 Series</h3>
@@ -208,7 +208,7 @@
             </div>
             <div id="popular2" class="tabcontent popular-item bg-1 ai-c pd-1 w-100">
                 <div class="popular-image ai-c bg-wh ds-fl jc-c mg-b15 pd-1">
-                    <img width="200px" height="100%" src="/wp-content/themes/tailpress/img/icp-das-usa-m-7002.jpg" loading="lazy" alt="A product image of a data acquisition module.">
+                    <img width="200px" height="100%" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-m-7002.jpg" loading="lazy" alt="A product image of a data acquisition module.">
                 </div>
                 <div class="popular-content fd-col jc-c">
                     <h3 class="fc-wh fs-md mg-b1">The M-7000 Series</h3>
@@ -218,7 +218,7 @@
             </div>
             <div id="popular3" class="tabcontent popular-item bg-1 ai-c pd-1 w-100">
                 <div class="popular-image ai-c bg-wh ds-fl jc-c mg-b15 pd-1">
-                    <img width="200px" height="100%" src="/wp-content/themes/tailpress/img/icp-das-usa-wp-8000.jpg" loading="lazy" alt="A product image of a programmable automation controller.">
+                    <img width="200px" height="100%" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-wp-8000.jpg" loading="lazy" alt="A product image of a programmable automation controller.">
                 </div>
                 <div class="popular-content fd-col jc-c">
                     <h3 class="fc-wh fs-md mg-b1">The WP-8000 Series</h3>
@@ -228,7 +228,7 @@
             </div>
             <div id="popular4" class="tabcontent popular-item bg-1 ai-c pd-1 w-100">
                 <div class="popular-image ai-c bg-wh ds-fl jc-c mg-b15 pd-1">
-                    <img width="200px" height="100%" src="/wp-content/themes/tailpress/img/icp-das-usa-data-communication.jpg" loading="lazy" alt="A product image of a data acquisition gateway.">
+                    <img width="200px" height="100%" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-data-communication.jpg" loading="lazy" alt="A product image of a data acquisition gateway.">
                 </div>
                 <div class="popular-content fd-col jc-c">
                     <h3 class="fc-wh fs-md mg-b1">The tGW-700 Series</h3>
@@ -245,7 +245,7 @@
         <p>ICP DAS USA has over twenty years of experience serving the data acquisition, embedded control, and data communication needs of domestic and international companies, including, but not limited to, those in the following industries:</p>
         <div class="solutions-row ds-fl fd-col">
             <a class="solutions-item rollover-item td-no w-100" href="/solutions/building-automation.php">
-                <img width="100%" height="100%" class="rollover-image" src="/wp-content/themes/tailpress/img/icp-das-usa-building-automation.jpg" loading="lazy" alt="A view of downtown Chicago skyscrapers and highway.">
+                <img width="100%" height="100%" class="rollover-image" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-building-automation.jpg" loading="lazy" alt="A view of downtown Chicago skyscrapers and highway.">
                 <div class="rollover-overlay ai-c jc-c">
                     <h3 class="click-header ai-c bg-1 ds-fl fc-wh fs-sm fw-4 jc-c pd-1 ps-re ta-c">Building Automation</h3>
                 </div>
@@ -254,7 +254,7 @@
                 </div>
             </a>
             <a class="solutions-item rollover-item mg-t1 td-no w-100" href="/solutions/factory-automation.php">
-                <img width="100%" height="100%" class="rollover-image" src="/wp-content/themes/tailpress/img/icp-das-usa-factory-automation.jpg" loading="lazy" alt="Three steel factory workers handle a large piece of equipment.">
+                <img width="100%" height="100%" class="rollover-image" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-factory-automation.jpg" loading="lazy" alt="Three steel factory workers handle a large piece of equipment.">
                 <div class="rollover-overlay ai-c jc-c">
                     <h3 class="click-header ai-c bg-1 ds-fl fc-wh fs-sm fw-4 jc-c pd-1 ps-re ta-c">Factory Automation</h3>
                 </div>
@@ -263,7 +263,7 @@
                 </div>
             </a>
             <a class="solutions-item rollover-item mg-t1 td-no w-100" href="/solutions/green-energy-and-environment.php">
-                <img width="100%" height="100%" class="rollover-image" src="/wp-content/themes/tailpress/img/icp-das-usa-green-energy-and-environment.jpg" loading="lazy" alt="Wind turbines in a grassy field.">
+                <img width="100%" height="100%" class="rollover-image" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-green-energy-and-environment.jpg" loading="lazy" alt="Wind turbines in a grassy field.">
                 <div class="rollover-overlay ai-c jc-c">
                     <h3 class="click-header ai-c bg-1 ds-fl fc-wh fs-sm fw-4 jc-c pd-1 ps-re ta-c">Green Energy &amp; Environment</h3>
                 </div>
@@ -274,7 +274,7 @@
         </div>
         <div class="solutions-row ds-fl fd-col">
             <a class="solutions-item rollover-item mg-t1 td-no w-100" href="/solutions/food-and-beverage.php">
-                <img width="100%" height="100%" class="rollover-image" src="/wp-content/themes/tailpress/img/icp-das-usa-food-and-beverage.jpg" loading="lazy" alt="Equipment for the distillation of alcoholic beverages.">
+                <img width="100%" height="100%" class="rollover-image" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-food-and-beverage.jpg" loading="lazy" alt="Equipment for the distillation of alcoholic beverages.">
                 <div class="rollover-overlay ai-c jc-c">
                     <h3 class="click-header ai-c bg-1 ds-fl fc-wh fs-sm fw-4 jc-c pd-1 ps-re ta-c">Food &amp; Beverage</h3>
                 </div>
@@ -283,7 +283,7 @@
                 </div>
             </a>
             <a class="solutions-item rollover-item mg-t1 td-no w-100" href="/solutions/laboratories.php">
-                <img width="100%" height="100%" class="rollover-image" src="/wp-content/themes/tailpress/img/icp-das-usa-laboratories.jpg" loading="lazy" alt="A scientist at work in a laboratory for biomaterials.">
+                <img width="100%" height="100%" class="rollover-image" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-laboratories.jpg" loading="lazy" alt="A scientist at work in a laboratory for biomaterials.">
                 <div class="rollover-overlay ai-c jc-c">
                     <h3 class="click-header ai-c bg-1 ds-fl fc-wh fs-sm fw-4 jc-c pd-1 ps-re ta-c">Laboratories</h3>
                 </div>
@@ -292,7 +292,7 @@
                 </div>
             </a>
             <a class="solutions-item rollover-item mg-t1 td-no w-100" href="/solutions/transportation.php">
-                <img width="100%" height="100%" class="rollover-image" src="/wp-content/themes/tailpress/img/icp-das-usa-transportation.jpg" loading="lazy" alt="A plane flies over a truck and cargo ship.">
+                <img width="100%" height="100%" class="rollover-image" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-transportation.jpg" loading="lazy" alt="A plane flies over a truck and cargo ship.">
                 <div class="rollover-overlay ai-c jc-c">
                     <h3 class="click-header ai-c bg-1 ds-fl fc-wh fs-sm fw-4 jc-c pd-1 ps-re ta-c">Transportation</h3>
                 </div>
@@ -301,7 +301,7 @@
                 </div>
             </a>
             <a class="solutions-item rollover-item mg-t1 td-no w-100" href="/solutions/iiot.php">
-                <img width="100%" height="100%" class="rollover-image" src="/wp-content/themes/tailpress/img/icp-das-usa-iiot.jpg" loading="lazy" alt="A graphic showing how a city can be connected by the web of the internet.">
+                <img width="100%" height="100%" class="rollover-image" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-iiot.jpg" loading="lazy" alt="A graphic showing how a city can be connected by the web of the internet.">
                 <div class="rollover-overlay ai-c jc-c">
                     <h3 class="click-header ai-c bg-1 ds-fl fc-wh fs-sm fw-4 jc-c pd-1 ps-re ta-c">IIoT</h3>
                 </div>
@@ -336,7 +336,7 @@
             <div class="story-image side-gallery h-100 jc-sb" style="margin: 10px 0">
                 <div class="ds-fl w-100 h-100" style="align-items: center;">
                     <span title="Connect and Manage IoT Devices with New IoTStar Software" style="cursor: -moz-zoom-in;cursor: -webkit-zoom-in; cursor: zoom-in; margin: auto" class="zoom" id="ex1">
-                        <img width="100%" height="100%" class="zoomImg" src="/wp-content/themes/tailpress/img/icp-das-usa-story-1.jpg" loading="lazy" alt="Connect and Manage IoT Devices with New IoTStar Software" />
+                        <img width="100%" height="100%" class="zoomImg" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-story-1.jpg" loading="lazy" alt="Connect and Manage IoT Devices with New IoTStar Software" />
                     </span>
                 </div>
             </div>
@@ -355,8 +355,8 @@
         </div>
         <div class="side-gallery h-100 jc-sb ds-no thickbox" style="margin-top: 10px">
             <div class="ds-fl w-100 h-100" style="align-items: center;">
-                <a href="/wp-content/themes/tailpress/img/icp-das-usa-story-1.jpg" title="Connect and Manage IoT Devices with New IoTStar Software" style="cursor: -moz-zoom-in;cursor: -webkit-zoom-in; cursor: zoom-in;" class="zoom thickbox" id="ex2">
-                    <img width="100%" height="100%" class="zoomImg" src="/wp-content/themes/tailpress/img/icp-das-usa-story-1.jpg" loading="lazy" alt="Connect and Manage IoT Devices with New IoTStar Software" />
+                <a href="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-story-1.jpg" title="Connect and Manage IoT Devices with New IoTStar Software" style="cursor: -moz-zoom-in;cursor: -webkit-zoom-in; cursor: zoom-in;" class="zoom thickbox" id="ex2">
+                    <img width="100%" height="100%" class="zoomImg" src="wp-content/themes/wp-icpdas-usa/img/icp-das-usa-story-1.jpg" loading="lazy" alt="Connect and Manage IoT Devices with New IoTStar Software" />
                 </a>
             </div>
         </div>
@@ -470,6 +470,6 @@
         </div>
     </div>
 </div>
-<?php the_content(); ?>
+<!-- <?php the_content(); ?> -->
 <!-- </main> -->
 <?php get_footer(); ?>
