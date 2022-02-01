@@ -34,7 +34,7 @@ get_header('shop');
     ?>
     <header class="woocommerce-products-header">
         <?php if (apply_filters('woocommerce_show_page_title', true)) : ?>
-            <h1 class="woocommerce-products-header__title page-title"><?php woocommerce_page_title(); ?></h1>
+            <h1 class="font-bold text-4xl woocommerce-products-header__title page-title"><?php woocommerce_page_title(); ?></h1>
         <?php endif; ?>
 
         <?php
@@ -44,7 +44,7 @@ get_header('shop');
          * @hooked woocommerce_taxonomy_archive_description - 10
          * @hooked woocommerce_product_archive_description - 10
          */
-        do_action('woocommerce_archive_description');
+        // do_action('woocommerce_archive_description');
         ?>
     </header>
 
@@ -54,12 +54,11 @@ get_header('shop');
     * Adds the Product Category Description
     *
     */
-    $queriedObject = get_queried_object();
-    // var_dump($queriedObject);
-    if (isset($queriedObject->term_id))
-        echo get_field('category_description', 'product_cat_' . $queriedObject->term_id);
+        $queriedObject = get_queried_object();
+        // var_dump($queriedObject);
+        if (isset($queriedObject->term_id))
+            echo get_field('category_description', 'product_cat_' . $queriedObject->term_id);
     ?>
-
 
     <?php
     if (woocommerce_product_loop()) {
@@ -103,7 +102,7 @@ get_header('shop');
             if (isset($queriedObject->term_id))
                 echo get_field('selection_table', 'product_cat_' . $queriedObject->term_id);
 
-        } else {
+            } else {
             /**
              * Hook: woocommerce_no_products_found.
              *

@@ -154,3 +154,13 @@ add_filter('nav_menu_submenu_css_class', 'tailpress_nav_menu_add_submenu_class',
 // }
 
 // add_filter('woocommerce_product_tabs', 'wc_remove_all_product_tabs', 98);
+
+/**
+ * Change number or products per row to 3
+ */
+add_filter('loop_shop_columns', 'loop_columns', 999);
+if (!function_exists('loop_columns')) {
+	function loop_columns() {
+		return 6; // 6 products per row
+	}
+}
